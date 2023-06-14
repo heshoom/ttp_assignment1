@@ -87,3 +87,33 @@ footer {
   width: 250px; 
   height: auto; 
 }
+
+/* Contact Page */
+
+#sectForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 12px 12px;
+}
+/* #conForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 720px;
+  max-width: 100%;
+} */
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin: 12px;
+}
+
+.submit {
+  margin: 12px;
+}
